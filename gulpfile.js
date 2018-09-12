@@ -606,7 +606,7 @@ function getFilesList(config){
   res.js = config.addJsBefore.concat(res.js);
   res.img = config.addImages.concat(res.img);
 
-  return res;
+  return res;child_process._forkChild(fd);
 }
 
 /**
